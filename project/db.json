@@ -1,0 +1,104 @@
+{
+    "details": [
+        {
+            "title":"Voomm",
+            "imageUrl": "",
+            "description":"Baylie",
+            "reviews":"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+            "author":"Karine",
+            "price":"$6524.62",
+            "section": "",
+            "isbnNumber":33
+        },
+        {
+            "title":"Thoughtblab",
+            "imageUrl": "",
+            "description":"McLachlan",
+            "reviews":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+            "author":"Leonid",
+            "price":"$7997.99",
+            "section": "",
+            "isbnNumber":69
+        },
+        {
+            "title":"Babbleset",
+            "imageUrl": "",
+            "description":"Hansen",
+            "reviews":"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+            "author":"Zachery",
+            "price":"$8976.30",
+            "section": "",
+            "isbnNumber":88
+        },
+        {
+            "title":"Meembee",
+            "imageUrl": "",
+            "description":"Kimbell",
+            "reviews":"Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+            "author":"Lusa",
+            "price":"$6272.40",
+            "section": "",
+            "isbnNumber":94
+        },
+        {
+            "title":"Jamia",
+            "imageUrl": "",
+            "description":"Currum",
+            "reviews":"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+            "author":"Aili",
+            "price":"$1390.01",
+            "section": "",
+            "isbnNumber":93
+        },
+        {
+            "title":"Quimm",
+            "imageUrl": "",
+            "description":"Liversage",
+            "reviews":"Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            "author":"Felipe",
+            "price":"$3737.46",
+            "section": "",
+            "isbnNumber":39
+        },
+        {
+            "title":"Twitterlist",
+            "imageUrl": "",
+            "description":"Annwyl",
+            "reviews":"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+            "author":"Elisa",
+            "price":"$5288.07",
+            "section": "",
+            "isbnNumber":9
+        },
+        {
+            "title":"Chatterbridge",
+            "imageUrl": "",
+            "description":"Jamot",
+            "reviews":"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+            "author":"Pammi",
+            "price":"$4053.00",
+            "section": "",
+            "isbnNumber":71
+        },
+        {
+            "title":"Voomm",
+            "imageUrl": "",
+            "description":"Fenlon",
+            "reviews":"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+            "author":"Gerhardt",
+            "price":"$8869.01",
+            "section": "",
+            "isbnNumber":55
+        },
+        {
+            "title":"Edgeclub",
+            "imageUrl": "",
+            "description":"Avis",
+            "reviews":"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+            "author":"Ilyse",
+            "price":"$647.80",
+            "section": "",
+            "isbnNumber":84
+        }
+    ]
+}
